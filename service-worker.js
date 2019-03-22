@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Zaytsewvk/Online-shop-react/precache-manifest.4df9ce2ce4779a7b7f8de537911d72ce.js"
+  "/Online-shop-react/precache-manifest.71cdf30eec5a2c4222ed729e1861400a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Zaytsewvk/Online-shop-react/index.html", {
+workbox.routing.registerNavigationRoute("/Online-shop-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
