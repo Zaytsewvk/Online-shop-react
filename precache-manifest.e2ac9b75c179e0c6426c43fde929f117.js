@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/online-shop-react/static/js/runtime~main.72a229ba.js"
   },
   {
-    "revision": "b03bf6f3b11eff4de8f4",
-    "url": "/online-shop-react/static/js/main.b03bf6f3.chunk.js"
+    "revision": "4344293ae9fc2177e784",
+    "url": "/online-shop-react/static/js/main.4344293a.chunk.js"
   },
   {
-    "revision": "932bbbe6a081f22d868e",
-    "url": "/online-shop-react/static/js/2.932bbbe6.chunk.js"
+    "revision": "3df045836a64f661481d",
+    "url": "/online-shop-react/static/js/2.3df04583.chunk.js"
   },
   {
-    "revision": "b03bf6f3b11eff4de8f4",
-    "url": "/online-shop-react/static/css/main.7d5626c5.chunk.css"
+    "revision": "4344293ae9fc2177e784",
+    "url": "/online-shop-react/static/css/main.5c6f804f.chunk.css"
   },
   {
-    "revision": "ae366f78707bc90ff1f487f7d771d113",
+    "revision": "e7ab835374a6ef581a97acba22d5fcce",
     "url": "/online-shop-react/index.html"
   }
 ];
